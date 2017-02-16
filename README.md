@@ -2,6 +2,14 @@
 
 [![Build Status](https://travis-ci.org/cloudbase/python-hnvclient.svg?branch=master)](https://travis-ci.org/cloudbase/python-hnvclient)
 
+The repository was moved [here](https://github.com/cloudbase/python-hnvclient).
+
+If you already cloned this repository, please update your remote origin:
+
+    git remote set-url origin https://github.com/cloudbase/python-hnvclient
+
+---
+
 Python client for the HNV (Hyper-V Network Virtualization) REST API.
 
  - License: Apache License, Version 2.0
